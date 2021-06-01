@@ -1,7 +1,7 @@
 ### <h1 align="center">Hello stranger<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,<br> I'm Caroline</h1>
 
 
-![Snake animation](https://github.com/crlne/crlne/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **crlne/crlne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
